@@ -8,7 +8,7 @@ This page describes the ways you can manage your AI chat files.
 
 **Import chats into SillyTavern**
 
-To import Character.AI chats, use this tool: [https://github.com/0x000011b/characterai-dumper](https://github.com/0x000011b/characterai-dumper).
+To import Character.AI chats, use this tool: [[https://github.com/0x000011b/characterai-dumper](https://github.com/irsat000/CAI-Tools)]([https://github.com/0x000011b/characterai-dumper](https://github.com/irsat000/CAI-Tools)).
 
 ### Group Chats
 
